@@ -1,0 +1,28 @@
+{
+  "name": "vue-sharing",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D基于vue的分享�社交分享插件,可分享微博,QQ,facebook等等\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xcwang520/vue-sharing.git"
+  },
+  "keywords": [
+    "VUE",
+    "sharing",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dsocial",
+    "sharing",
+    "qq",
+    "weibo",
+    "facebook"
+  ],
+  "author": "xcwang520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcwang520/vue-sharing/issues"
+  },
+  "homepage": "https://github.com/xcwang520/vue-sharing#readme"
+}
